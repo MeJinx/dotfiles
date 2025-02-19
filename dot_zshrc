@@ -248,6 +248,7 @@ alias off='poweroff'
 alias rb='reboot'
 alias q='exit'
 alias c='clear'
+alias cl='clear'
 
 alias v='nvim'
 alias vim='nvim'
@@ -275,6 +276,8 @@ alias tk='tmux kill-server'
 alias tK='tmux kill-session -t'
 alias tl='tmux ls'
 alias tf='sesh connect $(sesh list | fzf)'
+
+alias dot='chezmoi'
 
 #  ┌─┐┬ ┬┌┬┐┌─┐  ┌─┐┌┬┐┌─┐┬─┐┌┬┐
 #  ├─┤│ │ │ │ │  └─┐ │ ├─┤├┬┘ │
