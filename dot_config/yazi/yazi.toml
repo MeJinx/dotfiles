@@ -1,0 +1,16 @@
+# yazi.toml
+[manager]
+show_hidden = true
+
+[preview]
+# Change them to your desired values
+max_width  = 8000
+max_height = 8000
+
+[external_programs]
+zoxide = "zoxide"
+
+[plugin]
+prepend_previewers = [
+    { mime = "text/csv", run = "miller"},
+]

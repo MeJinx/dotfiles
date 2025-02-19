@@ -1,0 +1,59 @@
+[[plugin.deps]]
+use = "Ape/mediainfo"
+rev = "c69314e"
+hash = "edbf9c7a6a69c8c09b53f860fd887f5c"
+
+[[plugin.deps]]
+use = "Lil-Dank/lazygit"
+rev = "c82794f"
+hash = "2b0c33928986f126d5c5a4cac31a6b46"
+
+[[plugin.deps]]
+use = "yazi-rs/plugins:smart-filter"
+rev = "ec97f88"
+hash = "ea24edab4a62c94dbd205adfb6f2c08d"
+
+[[plugin.deps]]
+use = "h-hg/yamb"
+rev = "108347b"
+hash = "faf1b817347b5b46c96039dab538694b"
+
+[[plugin.deps]]
+use = "Ape/open-with-cmd"
+rev = "8d7abc8"
+hash = ""
+
+[[plugin.deps]]
+use = "yazi-rs/plugins:chmod"
+rev = "ec97f88"
+hash = "36c82bb433078e8e752351d961cac777"
+
+[[plugin.deps]]
+use = "yazi-rs/plugins:max-preview"
+rev = "62f0789"
+hash = "9bc26d10d2f6e2aa93b10905b1b76979"
+
+[[plugin.deps]]
+use = "yazi-rs/plugins:full-border"
+rev = "62f0789"
+hash = "3a73613fc702a5f8369791b3401f52f1"
+
+[[plugin.deps]]
+use = "imsi32/yatline"
+rev = "9328205"
+hash = "3e51d1fd8a2e481fcfa8eab1251d1c5f"
+
+[[plugin.deps]]
+use = "Reledia/miller"
+rev = "40e0265"
+hash = "2d6d77583162aaf0a599e7a3091b5878"
+
+[[flavor.deps]]
+use = "yazi-rs/flavors:catppuccin-mocha"
+rev = "8458d25"
+hash = "44ab3265147788a4e780b2060341d65e"
+
+[[flavor.deps]]
+use = "yazi-rs/flavors:catppuccin-macchiato"
+rev = "8458d25"
+hash = "2f46168171229028a23ce7e740e8a4e0"
