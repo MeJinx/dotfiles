@@ -24,7 +24,19 @@ local plugins = {
         end,
         dependencies = { { 'nvim-tree/nvim-web-devicons' } }
     },
-    { "catppuccin/nvim", name = "catppuccin", priority = 1000 },
+
+    { "catppuccin/nvim",      name = "catppuccin",                                                priority = 1000 },
+    {
+        "kdheepak/lazygit.nvim",
+        lazy = true,
+        cmd = {
+            "LazyGit",
+            "LazyGitConfig",
+            "LazyGitCurrentFile",
+            "LazyGitFilter",
+            "LazyGitFilterCurrentFile",
+        },
+    },
     {
         "mikavilpas/yazi.nvim",
         event = "VeryLazy",
@@ -44,7 +56,7 @@ local plugins = {
             {
                 -- NOTE: this requires a version of yazi that includes
                 -- https://github.com/sxyazi/yazi/pull/1305 from 2024-07-18
-                '<leader>ry',
+                '<c-up>',
                 "<cmd>Yazi toggle<cr>",
                 desc = "Resume the last yazi session",
             },
@@ -59,6 +71,24 @@ local plugins = {
             },
         },
     },
+
+    -----------------------------------
+
+    ---debug the code.
+    "mfussenegger/nvim-dap",
+    { "rcarriga/nvim-dap-ui", dependencies = { "mfussenegger/nvim-dap", "nvim-neotest/nvim-nio" } },
+    -- 安装 nvim-dap-telescope 插件 (集成调试与 telescope)
+    {
+        'nvim-telescope/telescope-dap.nvim',
+        dependencies = { 'nvim-telescope/telescope.nvim', 'mfussenegger/nvim-dap' }
+    },
+    -- Python 调试插件（可选，针对 Python 用户）
+    "mfussenegger/nvim-dap-python",
+    -- virtual-text
+    "theHamsta/nvim-dap-virtual-text",
+
+    -----------------------------------
+
     "nvim-tree/nvim-web-devicons", -- 文件树图标
     "github/copilot.vim",          --github copilot
     "nvim-lualine/lualine.nvim",   -- 状态栏
@@ -77,21 +107,19 @@ local plugins = {
     },
 
     -- 自动补全
-    "hrsh7th/nvim-cmp",
+    {"hrsh7th/nvim-cmp"},
     "hrsh7th/cmp-nvim-lsp",
     "L3MON4D3/LuaSnip", -- snippets引擎，不装这个自动补全会出问题
     "saadparwaiz1/cmp_luasnip",
     "rafamadriz/friendly-snippets",
     "hrsh7th/cmp-path",                -- 文件路径
+
     "numToStr/Comment.nvim",           -- gcc和gc注释
     "windwp/nvim-autopairs",           -- 自动补全括号
     "HiPhish/rainbow-delimiters.nvim", --彩色括号
+
     "akinsho/bufferline.nvim",         -- buffer分割线
     "lewis6991/gitsigns.nvim",         -- 左则git提示
-    {
-    "knubie/vim-kitty-navigator",
-    build = "cp ./*.py ~/.config/kitty/",
-    },
     "onsails/lspkind.nvim",            --vscode式的自动补全框
     "christoomey/vim-tmux-navigator",  -- use "ctrl-hjkl" to switch between planes.
     {

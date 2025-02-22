@@ -244,6 +244,8 @@ alias ll='eza -lha --icons=always --color=always --sort=name --group-directories
 alias ld='eza -lhD --icons=always --color=always' # long list dirs
 alias lt='eza --icons=always --color=always --tree' # list folder as tree
 
+alias lg='lazygit'
+
 alias off='poweroff'
 alias rb='reboot'
 alias q='exit'
@@ -278,6 +280,7 @@ alias tl='tmux ls'
 alias tf='sesh connect $(sesh list | fzf)'
 
 alias dot='chezmoi'
+
 
 #  ┌─┐┬ ┬┌┬┐┌─┐  ┌─┐┌┬┐┌─┐┬─┐┌┬┐
 #  ├─┤│ │ │ │ │  └─┐ │ ├─┤├┬┘ │

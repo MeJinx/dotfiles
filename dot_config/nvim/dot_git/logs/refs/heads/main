@@ -1,3 +1,5 @@
 0000000000000000000000000000000000000000 71413aad9f8166b4c0531f5d9571f037f22ce7ac MeJinx <djsjtsh954@gmail.com> 1737128163 +0800	clone: from github.com:MeJinx/nvim-config.git
 71413aad9f8166b4c0531f5d9571f037f22ce7ac c030713cdf3858e94b74d5851699bc8ab1ea014c MeJinx <djsjtsh954@gmail.com> 1737186501 +0800	commit: 换用wayland，修复了copeboard的问题
 c030713cdf3858e94b74d5851699bc8ab1ea014c 8a46d0c68f9b554e8309e150d96a0bf5bde627fd MeJinx <djsjtsh954@gmail.com> 1737471140 +0800	commit: 添加root身份的使用
+8a46d0c68f9b554e8309e150d96a0bf5bde627fd 417d290cd2cb6b6288166d9fbddff36a67d4f229 MeJinx <djsjtsh954@gmail.com> 1740203402 +0800	commit: add a debug function
+417d290cd2cb6b6288166d9fbddff36a67d4f229 54ed44640b2f49aa60937d2eb07061002ef5103e MeJinx <djsjtsh954@gmail.com> 1740227916 +0800	commit: 统一修改快捷键
