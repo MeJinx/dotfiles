@@ -447,7 +447,13 @@ set -g @plugin 'tmux-plugins/tmux-copycat'
 set -g @plugin 'tmux-plugins/tmux-resurrect'
 set -g @plugin 'tmux-plugins/tmux-continuum'
 set -g @plugin 'tmux-plugins/tmux-open'
+set -g @plugin 'omerxx/tmux-floax'
+set -g @plugin 'omerxx/tmux-sessionx'
+set -g @floax-bind 'O'
+set -g @sessionx-bind 'o'
+# 保存nvim编辑
 set -g @resurrect-strategy-nvim 'session'
+# search
 set -g @open-s 'https://www.google.com/search?q='
 
 # sesh config

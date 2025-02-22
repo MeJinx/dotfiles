@@ -1320,3 +1320,551 @@
 [2025-02-19 11:05:42.199]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/clean_plugins all
 [2025-02-19 11:05:42.291]	Done.
 
+[2025-02-19 21:40:59.032]	List of discovered tpm plugins: nhdaly/tmux-better-mouse-mode tmux-plugins/tmux-copycat tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-open
+[2025-02-19 21:40:59.054]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-02-19 21:40:59.120]	Already installed "tmux-copycat"
+[2025-02-19 21:40:59.144]	Already installed "tmux-better-mouse-mode"
+[2025-02-19 21:40:59.153]	Already installed "tmux-continuum"
+[2025-02-19 21:40:59.167]	Already installed "tmux-resurrect"
+[2025-02-19 21:40:59.176]	Already installed "tmux-open"
+[2025-02-19 21:40:59.193]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-02-19 21:40:59.232]	Updating all plugins!
+[2025-02-19 21:40:59.248]	
+[2025-02-19 21:41:00.489]	  "tmux-better-mouse-mode" update success
+[2025-02-19 21:41:00.497]	    | 已经是最新的。
+[2025-02-19 21:41:00.506]	  "tmux-resurrect" update success
+[2025-02-19 21:41:00.517]	    | 已经是最新的。
+[2025-02-19 21:41:00.533]	  "tmux-copycat" update success
+[2025-02-19 21:41:00.549]	    | 已经是最新的。
+[2025-02-19 21:41:00.567]	  "tmux-open" update success
+[2025-02-19 21:41:00.586]	    | 已经是最新的。
+[2025-02-19 21:41:00.680]	  "tmux-continuum" update success
+[2025-02-19 21:41:00.699]	    | 已经是最新的。
+[2025-02-19 21:41:00.723]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-02-19 21:41:00.809]	Done.
+
+[2025-02-21 18:04:45.094]	List of discovered tpm plugins: nhdaly/tmux-better-mouse-mode tmux-plugins/tmux-copycat tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-open
+[2025-02-21 18:04:45.118]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-02-21 18:04:45.182]	Already installed "tmux-better-mouse-mode"
+[2025-02-21 18:04:45.203]	Already installed "tmux-copycat"
+[2025-02-21 18:04:45.223]	Already installed "tmux-resurrect"
+[2025-02-21 18:04:45.239]	Already installed "tmux-open"
+[2025-02-21 18:04:45.256]	Already installed "tmux-continuum"
+[2025-02-21 18:04:45.265]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-02-21 18:04:45.324]	Updating all plugins!
+[2025-02-21 18:04:45.345]	
+[2025-02-21 18:04:46.717]	  "tmux-open" update success
+[2025-02-21 18:04:46.737]	  "tmux-better-mouse-mode" update success
+[2025-02-21 18:04:46.755]	    | 已经是最新的。
+[2025-02-21 18:04:46.776]	  "tmux-copycat" update success
+[2025-02-21 18:04:46.792]	    | 已经是最新的。
+[2025-02-21 18:04:46.801]	    | 已经是最新的。
+[2025-02-21 18:04:46.813]	  "tmux-resurrect" update success
+[2025-02-21 18:04:46.832]	    | 已经是最新的。
+[2025-02-21 18:04:47.202]	  "tmux-continuum" update success
+[2025-02-21 18:04:47.221]	    | 已经是最新的。
+[2025-02-21 18:04:47.245]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-02-21 18:04:47.333]	Done.
+
+[2025-02-21 22:49:32.767]	List of discovered tpm plugins: nhdaly/tmux-better-mouse-mode tmux-plugins/tmux-copycat tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-open
+[2025-02-21 22:49:32.783]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-02-21 22:49:32.842]	Already installed "tmux-copycat"
+[2025-02-21 22:49:32.850]	Already installed "tmux-better-mouse-mode"
+[2025-02-21 22:49:32.864]	Already installed "tmux-resurrect"
+[2025-02-21 22:49:32.878]	Already installed "tmux-continuum"
+[2025-02-21 22:49:32.894]	Already installed "tmux-open"
+[2025-02-21 22:49:32.909]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-02-21 22:49:32.953]	Updating all plugins!
+[2025-02-21 22:49:32.970]	
+[2025-02-21 22:49:34.083]	  "tmux-continuum" update success
+[2025-02-21 22:49:34.096]	    | 已经是最新的。
+[2025-02-21 22:49:34.113]	  "tmux-copycat" update success
+[2025-02-21 22:49:34.130]	    | 已经是最新的。
+[2025-02-21 22:49:34.138]	  "tmux-better-mouse-mode" update success
+[2025-02-21 22:49:34.149]	    | 已经是最新的。
+[2025-02-21 22:49:34.160]	  "tmux-resurrect" update success
+[2025-02-21 22:49:34.172]	    | 已经是最新的。
+[2025-02-21 22:49:35.096]	  "tmux-open" update success
+[2025-02-21 22:49:35.108]	    | 已经是最新的。
+[2025-02-21 22:49:35.120]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-02-21 22:49:35.186]	Done.
+
+[2025-02-22 14:05:44.333]	List of discovered tpm plugins: nhdaly/tmux-better-mouse-mode tmux-plugins/tmux-copycat tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-open
+[2025-02-22 14:05:44.354]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-02-22 14:05:44.424]	Already installed "tmux-copycat"
+[2025-02-22 14:05:44.445]	Already installed "tmux-better-mouse-mode"
+[2025-02-22 14:05:44.468]	Already installed "tmux-resurrect"
+[2025-02-22 14:05:44.487]	Already installed "tmux-continuum"
+[2025-02-22 14:05:44.510]	Already installed "tmux-open"
+[2025-02-22 14:05:44.521]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-02-22 14:05:44.586]	Updating all plugins!
+[2025-02-22 14:05:44.597]	
+[2025-02-22 14:05:45.864]	  "tmux-better-mouse-mode" update success
+[2025-02-22 14:05:45.875]	    | 已经是最新的。
+[2025-02-22 14:05:45.886]	  "tmux-copycat" update success
+[2025-02-22 14:05:45.895]	  "tmux-continuum" update success
+[2025-02-22 14:05:45.911]	    | 已经是最新的。
+[2025-02-22 14:05:45.928]	    | 已经是最新的。
+[2025-02-22 14:05:45.948]	  "tmux-resurrect" update success
+[2025-02-22 14:05:45.967]	    | 已经是最新的。
+[2025-02-22 14:05:45.983]	  "tmux-open" update success
+[2025-02-22 14:05:45.997]	    | 已经是最新的。
+[2025-02-22 14:05:46.017]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-02-22 14:05:46.103]	Done.
+
+[2025-02-22 14:07:13.179]	List of discovered tpm plugins: nhdaly/tmux-better-mouse-mode tmux-plugins/tmux-copycat tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-open
+[2025-02-22 14:07:13.190]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-02-22 14:07:13.256]	Already installed "tmux-copycat"
+[2025-02-22 14:07:13.276]	Already installed "tmux-better-mouse-mode"
+[2025-02-22 14:07:13.295]	Already installed "tmux-continuum"
+[2025-02-22 14:07:13.312]	Already installed "tmux-resurrect"
+[2025-02-22 14:07:13.327]	Already installed "tmux-open"
+[2025-02-22 14:07:13.348]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-02-22 14:07:13.385]	Updating all plugins!
+[2025-02-22 14:07:13.406]	
+[2025-02-22 14:07:14.428]	  "tmux-continuum" update success
+[2025-02-22 14:07:14.445]	  "tmux-copycat" update success
+[2025-02-22 14:07:14.466]	  "tmux-better-mouse-mode" update success
+[2025-02-22 14:07:14.484]	    | 已经是最新的。
+[2025-02-22 14:07:14.502]	    | 已经是最新的。
+[2025-02-22 14:07:14.520]	  "tmux-open" update success
+[2025-02-22 14:07:14.540]	    | 已经是最新的。
+[2025-02-22 14:07:14.562]	  "tmux-resurrect" update success
+[2025-02-22 14:07:14.578]	    | 已经是最新的。
+[2025-02-22 14:07:14.599]	    | 已经是最新的。
+[2025-02-22 14:07:14.619]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-02-22 14:07:14.685]	Done.
+
+[2025-02-22 16:10:34.383]	List of discovered tpm plugins: nhdaly/tmux-better-mouse-mode tmux-plugins/tmux-copycat tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-open
+[2025-02-22 16:10:34.408]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-02-22 16:10:34.459]	Already installed "tmux-better-mouse-mode"
+[2025-02-22 16:10:34.477]	Already installed "tmux-copycat"
+[2025-02-22 16:10:34.493]	Already installed "tmux-resurrect"
+[2025-02-22 16:10:34.508]	Already installed "tmux-continuum"
+[2025-02-22 16:10:34.520]	Already installed "tmux-open"
+[2025-02-22 16:10:34.537]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-02-22 16:10:34.582]	Updating all plugins!
+[2025-02-22 16:10:34.602]	
+[2025-02-22 16:10:35.718]	  "tmux-open" update success
+[2025-02-22 16:10:35.731]	  "tmux-continuum" update success
+[2025-02-22 16:10:35.748]	    | 已经是最新的。
+[2025-02-22 16:10:35.762]	  "tmux-copycat" update success
+[2025-02-22 16:10:35.774]	  "tmux-better-mouse-mode" update success
+[2025-02-22 16:10:35.784]	    | 已经是最新的。
+[2025-02-22 16:10:35.793]	    | 已经是最新的。
+[2025-02-22 16:10:35.804]	    | 已经是最新的。
+[2025-02-22 16:10:35.819]	  "tmux-resurrect" update success
+[2025-02-22 16:10:35.839]	    | 已经是最新的。
+[2025-02-22 16:10:35.858]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-02-22 16:10:35.964]	Done.
+
+[2025-02-22 21:16:02.327]	List of discovered tpm plugins: nhdaly/tmux-better-mouse-mode tmux-plugins/tmux-copycat tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-open omerxx/tmux-floax
+[2025-02-22 21:16:02.348]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-02-22 21:16:02.410]	Installing "tmux-floax"
+[2025-02-22 21:16:02.427]	Already installed "tmux-better-mouse-mode"
+[2025-02-22 21:16:02.450]	Already installed "tmux-copycat"
+[2025-02-22 21:16:02.468]	Already installed "tmux-continuum"
+[2025-02-22 21:16:02.479]	Already installed "tmux-resurrect"
+[2025-02-22 21:16:02.495]	Already installed "tmux-open"
+[2025-02-22 21:16:04.970]	  "tmux-floax" download success
+[2025-02-22 21:16:04.993]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-02-22 21:16:05.035]	Updating all plugins!
+[2025-02-22 21:16:05.058]	
+[2025-02-22 21:16:06.415]	  "tmux-floax" update success
+[2025-02-22 21:16:06.425]	  "tmux-open" update success
+[2025-02-22 21:16:06.436]	  "tmux-copycat" update success
+[2025-02-22 21:16:06.444]	  "tmux-continuum" update success
+[2025-02-22 21:16:06.452]	    | 已经是最新的。
+[2025-02-22 21:16:06.466]	  "tmux-better-mouse-mode" update success
+[2025-02-22 21:16:06.476]	  "tmux-resurrect" update success
+[2025-02-22 21:16:06.487]	    | 已经是最新的。
+[2025-02-22 21:16:06.496]	    | 已经是最新的。
+[2025-02-22 21:16:06.504]	    | 已经是最新的。
+[2025-02-22 21:16:06.517]	    | 已经是最新的。
+[2025-02-22 21:16:06.526]	    | 已经是最新的。
+[2025-02-22 21:16:06.538]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-02-22 21:16:06.608]	Done.
+
+[2025-02-22 21:16:40.601]	List of discovered tpm plugins: nhdaly/tmux-better-mouse-mode tmux-plugins/tmux-copycat tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-open omerxx/tmux-floax
+[2025-02-22 21:16:40.621]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-02-22 21:16:40.653]	Already installed "tmux-copycat"
+[2025-02-22 21:16:40.665]	Already installed "tmux-floax"
+[2025-02-22 21:16:40.674]	Already installed "tmux-continuum"
+[2025-02-22 21:16:40.690]	Already installed "tmux-resurrect"
+[2025-02-22 21:16:40.699]	Already installed "tmux-open"
+[2025-02-22 21:16:40.708]	Already installed "tmux-better-mouse-mode"
+[2025-02-22 21:16:40.728]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-02-22 21:16:40.769]	Updating all plugins!
+[2025-02-22 21:16:40.785]	
+[2025-02-22 21:16:42.217]	  "tmux-better-mouse-mode" update success
+[2025-02-22 21:16:42.243]	    | 已经是最新的。
+[2025-02-22 21:16:42.263]	  "tmux-continuum" update success
+[2025-02-22 21:16:42.276]	  "tmux-copycat" update success
+[2025-02-22 21:16:42.289]	    | 已经是最新的。
+[2025-02-22 21:16:42.301]	  "tmux-open" update success
+[2025-02-22 21:16:42.308]	    | 已经是最新的。
+[2025-02-22 21:16:42.319]	  "tmux-floax" update success
+[2025-02-22 21:16:42.331]	    | 已经是最新的。
+[2025-02-22 21:16:42.346]	  "tmux-resurrect" update success
+[2025-02-22 21:16:42.363]	    | 已经是最新的。
+[2025-02-22 21:16:42.383]	    | 已经是最新的。
+[2025-02-22 21:16:42.403]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-02-22 21:16:42.472]	Done.
+
+[2025-02-22 21:19:07.508]	List of discovered tpm plugins: nhdaly/tmux-better-mouse-mode tmux-plugins/tmux-copycat tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-open omerxx/tmux-floax
+[2025-02-22 21:19:07.521]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-02-22 21:19:07.589]	Already installed "tmux-better-mouse-mode"
+[2025-02-22 21:19:07.627]	Already installed "tmux-resurrect"
+[2025-02-22 21:19:07.645]	Already installed "tmux-copycat"
+[2025-02-22 21:19:07.655]	Already installed "tmux-open"
+[2025-02-22 21:19:07.664]	Already installed "tmux-continuum"
+[2025-02-22 21:19:07.676]	Already installed "tmux-floax"
+[2025-02-22 21:19:07.684]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-02-22 21:19:07.710]	Updating all plugins!
+[2025-02-22 21:19:07.725]	
+[2025-02-22 21:19:08.827]	  "tmux-better-mouse-mode" update success
+[2025-02-22 21:19:08.835]	  "tmux-floax" update success
+[2025-02-22 21:19:08.843]	    | 已经是最新的。
+[2025-02-22 21:19:08.851]	    | 已经是最新的。
+[2025-02-22 21:19:08.862]	  "tmux-resurrect" update success
+[2025-02-22 21:19:08.873]	    | 已经是最新的。
+[2025-02-22 21:19:08.883]	  "tmux-open" update success
+[2025-02-22 21:19:08.914]	    | 已经是最新的。
+[2025-02-22 21:19:08.925]	  "tmux-copycat" update success
+[2025-02-22 21:19:08.940]	    | 已经是最新的。
+[2025-02-22 21:19:09.054]	  "tmux-continuum" update success
+[2025-02-22 21:19:09.074]	    | 已经是最新的。
+[2025-02-22 21:19:09.094]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-02-22 21:19:09.169]	Done.
+
+[2025-02-22 21:22:12.921]	List of discovered tpm plugins: nhdaly/tmux-better-mouse-mode tmux-plugins/tmux-copycat tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-open omerxx/tmux-floax
+[2025-02-22 21:22:12.944]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-02-22 21:22:13.011]	Already installed "tmux-copycat"
+[2025-02-22 21:22:13.028]	Already installed "tmux-better-mouse-mode"
+[2025-02-22 21:22:13.050]	Already installed "tmux-continuum"
+[2025-02-22 21:22:13.062]	Already installed "tmux-resurrect"
+[2025-02-22 21:22:13.078]	Already installed "tmux-open"
+[2025-02-22 21:22:13.092]	Already installed "tmux-floax"
+[2025-02-22 21:22:13.111]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-02-22 21:22:13.160]	Updating all plugins!
+[2025-02-22 21:22:13.188]	
+[2025-02-22 21:22:14.337]	  "tmux-continuum" update success
+[2025-02-22 21:22:14.344]	  "tmux-better-mouse-mode" update success
+[2025-02-22 21:22:14.353]	    | 已经是最新的。
+[2025-02-22 21:22:14.360]	    | 已经是最新的。
+[2025-02-22 21:22:14.370]	  "tmux-floax" update success
+[2025-02-22 21:22:14.385]	    | 已经是最新的。
+[2025-02-22 21:22:14.400]	  "tmux-copycat" update success
+[2025-02-22 21:22:14.416]	  "tmux-resurrect" update success
+[2025-02-22 21:22:14.429]	    | 已经是最新的。
+[2025-02-22 21:22:14.447]	    | 已经是最新的。
+[2025-02-22 21:22:14.764]	  "tmux-open" update success
+[2025-02-22 21:22:14.785]	    | 已经是最新的。
+[2025-02-22 21:22:14.809]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-02-22 21:22:14.898]	Done.
+
+[2025-02-22 21:26:07.341]	List of discovered tpm plugins: nhdaly/tmux-better-mouse-mode tmux-plugins/tmux-copycat tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-open omerxx/tmux-floax
+[2025-02-22 21:26:07.365]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-02-22 21:26:07.431]	Already installed "tmux-better-mouse-mode"
+[2025-02-22 21:26:07.452]	Already installed "tmux-copycat"
+[2025-02-22 21:26:07.471]	Already installed "tmux-floax"
+[2025-02-22 21:26:07.489]	Already installed "tmux-open"
+[2025-02-22 21:26:07.511]	Already installed "tmux-continuum"
+[2025-02-22 21:26:07.531]	Already installed "tmux-resurrect"
+[2025-02-22 21:26:07.551]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-02-22 21:26:07.597]	Updating all plugins!
+[2025-02-22 21:26:07.605]	
+[2025-02-22 21:26:08.796]	  "tmux-open" update success
+[2025-02-22 21:26:08.816]	  "tmux-floax" update success
+[2025-02-22 21:26:08.837]	    | 已经是最新的。
+[2025-02-22 21:26:08.847]	    | 已经是最新的。
+[2025-02-22 21:26:08.873]	  "tmux-continuum" update success
+[2025-02-22 21:26:08.892]	    | 已经是最新的。
+[2025-02-22 21:26:09.046]	  "tmux-resurrect" update success
+[2025-02-22 21:26:09.057]	    | 已经是最新的。
+[2025-02-22 21:26:09.075]	  "tmux-better-mouse-mode" update success
+[2025-02-22 21:26:09.095]	    | 已经是最新的。
+[2025-02-22 21:26:09.876]	  "tmux-copycat" update success
+[2025-02-22 21:26:09.886]	    | 已经是最新的。
+[2025-02-22 21:26:09.898]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-02-22 21:26:09.937]	Done.
+
+[2025-02-22 21:32:33.471]	List of discovered tpm plugins: nhdaly/tmux-better-mouse-mode tmux-plugins/tmux-copycat tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-open omerxx/tmux-floax
+[2025-02-22 21:32:33.494]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-02-22 21:32:33.554]	Already installed "tmux-copycat"
+[2025-02-22 21:32:33.572]	Already installed "tmux-better-mouse-mode"
+[2025-02-22 21:32:33.591]	Already installed "tmux-open"
+[2025-02-22 21:32:33.608]	Already installed "tmux-continuum"
+[2025-02-22 21:32:33.626]	Already installed "tmux-resurrect"
+[2025-02-22 21:32:33.648]	Already installed "tmux-floax"
+[2025-02-22 21:32:33.667]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-02-22 21:32:33.729]	Updating all plugins!
+[2025-02-22 21:32:33.746]	
+[2025-02-22 21:32:34.873]	  "tmux-open" update success
+[2025-02-22 21:32:34.893]	  "tmux-floax" update success
+[2025-02-22 21:32:34.912]	    | 已经是最新的。
+[2025-02-22 21:32:34.931]	    | 已经是最新的。
+[2025-02-22 21:32:34.938]	  "tmux-better-mouse-mode" update success
+[2025-02-22 21:32:34.947]	    | 已经是最新的。
+[2025-02-22 21:32:34.963]	  "tmux-copycat" update success
+[2025-02-22 21:32:34.982]	  "tmux-continuum" update success
+[2025-02-22 21:32:34.999]	    | 已经是最新的。
+[2025-02-22 21:32:35.015]	    | 已经是最新的。
+[2025-02-22 21:32:35.167]	  "tmux-resurrect" update success
+[2025-02-22 21:32:35.188]	    | 已经是最新的。
+[2025-02-22 21:32:35.207]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-02-22 21:32:35.283]	Done.
+
+[2025-02-22 21:33:33.865]	List of discovered tpm plugins: nhdaly/tmux-better-mouse-mode tmux-plugins/tmux-copycat tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-open omerxx/tmux-floax
+[2025-02-22 21:33:33.885]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-02-22 21:33:33.951]	Already installed "tmux-better-mouse-mode"
+[2025-02-22 21:33:33.970]	Already installed "tmux-resurrect"
+[2025-02-22 21:33:33.990]	Already installed "tmux-copycat"
+[2025-02-22 21:33:34.007]	Already installed "tmux-continuum"
+[2025-02-22 21:33:34.022]	Already installed "tmux-floax"
+[2025-02-22 21:33:34.035]	Already installed "tmux-open"
+[2025-02-22 21:33:34.045]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-02-22 21:33:34.071]	Updating all plugins!
+[2025-02-22 21:33:34.094]	
+[2025-02-22 21:33:35.287]	  "tmux-floax" update success
+[2025-02-22 21:33:35.302]	    | 已经是最新的。
+[2025-02-22 21:33:35.314]	  "tmux-copycat" update success
+[2025-02-22 21:33:35.335]	    | 已经是最新的。
+[2025-02-22 21:33:35.351]	  "tmux-open" update success
+[2025-02-22 21:33:35.358]	    | 已经是最新的。
+[2025-02-22 21:33:35.372]	  "tmux-continuum" update success
+[2025-02-22 21:33:35.393]	    | 已经是最新的。
+[2025-02-22 21:33:35.413]	  "tmux-resurrect" update success
+[2025-02-22 21:33:35.436]	    | 已经是最新的。
+[2025-02-22 21:33:35.516]	  "tmux-better-mouse-mode" update success
+[2025-02-22 21:33:35.537]	    | 已经是最新的。
+[2025-02-22 21:33:35.555]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-02-22 21:33:35.633]	Done.
+
+[2025-02-22 21:33:53.413]	List of discovered tpm plugins: nhdaly/tmux-better-mouse-mode tmux-plugins/tmux-copycat tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-open omerxx/tmux-floax
+[2025-02-22 21:33:53.432]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-02-22 21:33:53.482]	Already installed "tmux-copycat"
+[2025-02-22 21:33:53.498]	Already installed "tmux-open"
+[2025-02-22 21:33:53.519]	Already installed "tmux-better-mouse-mode"
+[2025-02-22 21:33:53.540]	Already installed "tmux-floax"
+[2025-02-22 21:33:53.562]	Already installed "tmux-resurrect"
+[2025-02-22 21:33:53.580]	Already installed "tmux-continuum"
+[2025-02-22 21:33:53.593]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-02-22 21:33:53.633]	Updating all plugins!
+[2025-02-22 21:33:53.649]	
+[2025-02-22 21:33:54.862]	  "tmux-open" update success
+[2025-02-22 21:33:54.873]	    | 已经是最新的。
+[2025-02-22 21:33:54.883]	  "tmux-copycat" update success
+[2025-02-22 21:33:54.891]	  "tmux-continuum" update success
+[2025-02-22 21:33:54.907]	  "tmux-better-mouse-mode" update success
+[2025-02-22 21:33:54.923]	    | 已经是最新的。
+[2025-02-22 21:33:54.944]	    | 已经是最新的。
+[2025-02-22 21:33:54.965]	  "tmux-floax" update success
+[2025-02-22 21:33:54.985]	    | 已经是最新的。
+[2025-02-22 21:33:55.004]	  "tmux-resurrect" update success
+[2025-02-22 21:33:55.020]	    | 已经是最新的。
+[2025-02-22 21:33:55.037]	    | 已经是最新的。
+[2025-02-22 21:33:55.056]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-02-22 21:33:55.133]	Done.
+
+[2025-02-22 21:36:20.480]	List of discovered tpm plugins: nhdaly/tmux-better-mouse-mode tmux-plugins/tmux-copycat tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-open omerxx/tmux-floax
+[2025-02-22 21:36:20.498]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-02-22 21:36:20.555]	Already installed "tmux-better-mouse-mode"
+[2025-02-22 21:36:20.573]	Already installed "tmux-continuum"
+[2025-02-22 21:36:20.586]	Already installed "tmux-open"
+[2025-02-22 21:36:20.602]	Already installed "tmux-resurrect"
+[2025-02-22 21:36:20.614]	Already installed "tmux-floax"
+[2025-02-22 21:36:20.624]	Already installed "tmux-copycat"
+[2025-02-22 21:36:20.642]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-02-22 21:36:20.670]	Updating all plugins!
+[2025-02-22 21:36:20.685]	
+[2025-02-22 21:36:21.836]	  "tmux-floax" update success
+[2025-02-22 21:36:21.845]	  "tmux-continuum" update success
+[2025-02-22 21:36:21.861]	  "tmux-better-mouse-mode" update success
+[2025-02-22 21:36:21.872]	    | 已经是最新的。
+[2025-02-22 21:36:21.885]	    | 已经是最新的。
+[2025-02-22 21:36:21.902]	    | 已经是最新的。
+[2025-02-22 21:36:21.916]	  "tmux-resurrect" update success
+[2025-02-22 21:36:21.936]	    | 已经是最新的。
+[2025-02-22 21:36:21.948]	  "tmux-copycat" update success
+[2025-02-22 21:36:21.960]	    | 已经是最新的。
+[2025-02-22 21:36:21.968]	  "tmux-open" update success
+[2025-02-22 21:36:21.985]	    | 已经是最新的。
+[2025-02-22 21:36:21.994]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-02-22 21:36:22.062]	Done.
+
+[2025-02-22 21:37:54.002]	List of discovered tpm plugins: nhdaly/tmux-better-mouse-mode tmux-plugins/tmux-copycat tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-open omerxx/tmux-floax omerxx/tmux-sessionx
+[2025-02-22 21:37:54.025]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-02-22 21:37:54.089]	Installing "tmux-sessionx"
+[2025-02-22 21:37:54.102]	Already installed "tmux-better-mouse-mode"
+[2025-02-22 21:37:54.115]	Already installed "tmux-open"
+[2025-02-22 21:37:54.133]	Already installed "tmux-continuum"
+[2025-02-22 21:37:54.146]	Already installed "tmux-copycat"
+[2025-02-22 21:37:54.157]	Already installed "tmux-floax"
+[2025-02-22 21:37:54.180]	Already installed "tmux-resurrect"
+[2025-02-22 21:37:56.784]	  "tmux-sessionx" download success
+[2025-02-22 21:37:56.807]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-02-22 21:37:56.851]	Updating all plugins!
+[2025-02-22 21:37:56.866]	
+[2025-02-22 21:37:58.105]	  "tmux-floax" update success
+[2025-02-22 21:37:58.126]	    | 已经是最新的。
+[2025-02-22 21:37:58.146]	  "tmux-continuum" update success
+[2025-02-22 21:37:58.166]	    | 已经是最新的。
+[2025-02-22 21:37:58.236]	  "tmux-better-mouse-mode" update success
+[2025-02-22 21:37:58.244]	    | 已经是最新的。
+[2025-02-22 21:37:58.260]	  "tmux-resurrect" update success
+[2025-02-22 21:37:58.274]	    | 已经是最新的。
+[2025-02-22 21:37:58.373]	  "tmux-sessionx" update success
+[2025-02-22 21:37:58.384]	    | 已经是最新的。
+[2025-02-22 21:37:58.402]	  "tmux-copycat" update success
+[2025-02-22 21:37:58.426]	    | 已经是最新的。
+[2025-02-22 21:37:58.551]	  "tmux-open" update success
+[2025-02-22 21:37:58.573]	    | 已经是最新的。
+[2025-02-22 21:37:58.597]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-02-22 21:37:58.677]	Done.
+
+[2025-02-22 21:38:04.733]	List of discovered tpm plugins: nhdaly/tmux-better-mouse-mode tmux-plugins/tmux-copycat tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-open omerxx/tmux-floax omerxx/tmux-sessionx
+[2025-02-22 21:38:04.752]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-02-22 21:38:04.818]	Already installed "tmux-copycat"
+[2025-02-22 21:38:04.837]	Already installed "tmux-better-mouse-mode"
+[2025-02-22 21:38:04.856]	Already installed "tmux-open"
+[2025-02-22 21:38:04.876]	Already installed "tmux-resurrect"
+[2025-02-22 21:38:04.894]	Already installed "tmux-floax"
+[2025-02-22 21:38:04.913]	Already installed "tmux-continuum"
+[2025-02-22 21:38:04.929]	Already installed "tmux-sessionx"
+[2025-02-22 21:38:04.950]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-02-22 21:38:04.991]	Updating all plugins!
+[2025-02-22 21:38:05.006]	
+[2025-02-22 21:38:06.097]	  "tmux-better-mouse-mode" update success
+[2025-02-22 21:38:06.106]	  "tmux-floax" update success
+[2025-02-22 21:38:06.123]	  "tmux-open" update success
+[2025-02-22 21:38:06.139]	    | 已经是最新的。
+[2025-02-22 21:38:06.148]	    | 已经是最新的。
+[2025-02-22 21:38:06.166]	    | 已经是最新的。
+[2025-02-22 21:38:06.185]	  "tmux-continuum" update success
+[2025-02-22 21:38:06.204]	    | 已经是最新的。
+[2025-02-22 21:38:06.222]	  "tmux-copycat" update success
+[2025-02-22 21:38:06.240]	    | 已经是最新的。
+[2025-02-22 21:38:06.260]	  "tmux-resurrect" update success
+[2025-02-22 21:38:06.279]	    | 已经是最新的。
+[2025-02-22 21:38:06.542]	  "tmux-sessionx" update success
+[2025-02-22 21:38:06.552]	    | 已经是最新的。
+[2025-02-22 21:38:06.562]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-02-22 21:38:06.615]	Done.
+
+[2025-02-22 21:43:19.318]	List of discovered tpm plugins: nhdaly/tmux-better-mouse-mode tmux-plugins/tmux-copycat tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-open omerxx/tmux-floax omerxx/tmux-sessionx
+[2025-02-22 21:43:19.330]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-02-22 21:43:19.360]	Already installed "tmux-better-mouse-mode"
+[2025-02-22 21:43:19.371]	Already installed "tmux-open"
+[2025-02-22 21:43:19.378]	Already installed "tmux-sessionx"
+[2025-02-22 21:43:19.388]	Already installed "tmux-continuum"
+[2025-02-22 21:43:19.397]	Already installed "tmux-copycat"
+[2025-02-22 21:43:19.406]	Already installed "tmux-floax"
+[2025-02-22 21:43:19.417]	Already installed "tmux-resurrect"
+[2025-02-22 21:43:19.426]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-02-22 21:43:19.451]	Updating all plugins!
+[2025-02-22 21:43:19.466]	
+[2025-02-22 21:43:20.553]	  "tmux-better-mouse-mode" update success
+[2025-02-22 21:43:20.562]	    | 已经是最新的。
+[2025-02-22 21:43:20.671]	  "tmux-resurrect" update success
+[2025-02-22 21:43:20.678]	    | 已经是最新的。
+[2025-02-22 21:43:20.694]	  "tmux-continuum" update success
+[2025-02-22 21:43:20.705]	    | 已经是最新的。
+[2025-02-22 21:43:20.873]	  "tmux-copycat" update success
+[2025-02-22 21:43:20.882]	    | 已经是最新的。
+[2025-02-22 21:43:20.894]	  "tmux-sessionx" update success
+[2025-02-22 21:43:20.903]	    | 已经是最新的。
+[2025-02-22 21:43:21.109]	  "tmux-open" update success
+[2025-02-22 21:43:21.123]	    | 已经是最新的。
+[2025-02-22 21:43:21.571]	  "tmux-floax" update success
+[2025-02-22 21:43:21.582]	    | 已经是最新的。
+[2025-02-22 21:43:21.592]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-02-22 21:43:21.628]	Done.
+
+[2025-02-22 21:58:45.014]	List of discovered tpm plugins: nhdaly/tmux-better-mouse-mode tmux-plugins/tmux-copycat tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-open omerxx/tmux-floax omerxx/tmux-sessionx
+[2025-02-22 21:58:45.023]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-02-22 21:58:45.083]	Already installed "tmux-copycat"
+[2025-02-22 21:58:45.093]	Already installed "tmux-better-mouse-mode"
+[2025-02-22 21:58:45.106]	Already installed "tmux-continuum"
+[2025-02-22 21:58:45.121]	Already installed "tmux-floax"
+[2025-02-22 21:58:45.129]	Already installed "tmux-sessionx"
+[2025-02-22 21:58:45.136]	Already installed "tmux-open"
+[2025-02-22 21:58:45.145]	Already installed "tmux-resurrect"
+[2025-02-22 21:58:45.153]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-02-22 21:58:45.180]	Updating all plugins!
+[2025-02-22 21:58:45.190]	
+[2025-02-22 21:58:46.854]	  "tmux-continuum" update success
+[2025-02-22 21:58:46.870]	  "tmux-open" update success
+[2025-02-22 21:58:46.890]	    | 已经是最新的。
+[2025-02-22 21:58:46.908]	    | 已经是最新的。
+[2025-02-22 21:58:46.916]	  "tmux-better-mouse-mode" update success
+[2025-02-22 21:58:46.934]	    | 已经是最新的。
+[2025-02-22 21:58:46.953]	  "tmux-copycat" update success
+[2025-02-22 21:58:46.971]	    | 已经是最新的。
+[2025-02-22 21:58:47.168]	  "tmux-floax" update success
+[2025-02-22 21:58:47.180]	  "tmux-resurrect" update success
+[2025-02-22 21:58:47.194]	    | 已经是最新的。
+[2025-02-22 21:58:47.212]	  "tmux-sessionx" update success
+[2025-02-22 21:58:47.227]	    | 已经是最新的。
+[2025-02-22 21:58:47.248]	    | 已经是最新的。
+[2025-02-22 21:58:47.267]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-02-22 21:58:47.347]	Done.
+
+[2025-02-22 22:06:45.076]	List of discovered tpm plugins: nhdaly/tmux-better-mouse-mode tmux-plugins/tmux-copycat tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-open omerxx/tmux-floax omerxx/tmux-sessionx
+[2025-02-22 22:06:45.098]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-02-22 22:06:45.162]	Already installed "tmux-copycat"
+[2025-02-22 22:06:45.179]	Already installed "tmux-better-mouse-mode"
+[2025-02-22 22:06:45.199]	Already installed "tmux-resurrect"
+[2025-02-22 22:06:45.221]	Already installed "tmux-open"
+[2025-02-22 22:06:45.243]	Already installed "tmux-continuum"
+[2025-02-22 22:06:45.259]	Already installed "tmux-floax"
+[2025-02-22 22:06:45.272]	Already installed "tmux-sessionx"
+[2025-02-22 22:06:45.293]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-02-22 22:06:45.331]	Updating all plugins!
+[2025-02-22 22:06:45.342]	
+[2025-02-22 22:06:46.511]	  "tmux-floax" update success
+[2025-02-22 22:06:46.522]	    | 已经是最新的。
+[2025-02-22 22:06:46.537]	  "tmux-sessionx" update success
+[2025-02-22 22:06:46.547]	    | 已经是最新的。
+[2025-02-22 22:06:46.602]	  "tmux-resurrect" update success
+[2025-02-22 22:06:46.620]	    | 已经是最新的。
+[2025-02-22 22:06:46.630]	  "tmux-copycat" update success
+[2025-02-22 22:06:46.641]	    | 已经是最新的。
+[2025-02-22 22:06:46.650]	  "tmux-continuum" update success
+[2025-02-22 22:06:46.665]	    | 已经是最新的。
+[2025-02-22 22:06:46.674]	  "tmux-better-mouse-mode" update success
+[2025-02-22 22:06:46.684]	    | 已经是最新的。
+[2025-02-22 22:06:46.774]	  "tmux-open" update success
+[2025-02-22 22:06:46.789]	    | 已经是最新的。
+[2025-02-22 22:06:46.798]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-02-22 22:06:46.869]	Done.
+
+[2025-02-22 22:10:32.897]	List of discovered tpm plugins: nhdaly/tmux-better-mouse-mode tmux-plugins/tmux-copycat tmux-plugins/tmux-resurrect tmux-plugins/tmux-continuum tmux-plugins/tmux-open omerxx/tmux-floax omerxx/tmux-sessionx
+[2025-02-22 22:10:32.917]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/install_plugins
+[2025-02-22 22:10:32.986]	Already installed "tmux-better-mouse-mode"
+[2025-02-22 22:10:33.005]	Already installed "tmux-resurrect"
+[2025-02-22 22:10:33.028]	Already installed "tmux-copycat"
+[2025-02-22 22:10:33.042]	Already installed "tmux-continuum"
+[2025-02-22 22:10:33.062]	Already installed "tmux-floax"
+[2025-02-22 22:10:33.082]	Already installed "tmux-sessionx"
+[2025-02-22 22:10:33.102]	Already installed "tmux-open"
+[2025-02-22 22:10:33.121]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/update_plugins all
+[2025-02-22 22:10:33.161]	Updating all plugins!
+[2025-02-22 22:10:33.185]	
+[2025-02-22 22:10:34.648]	  "tmux-open" update success
+[2025-02-22 22:10:34.660]	  "tmux-better-mouse-mode" update success
+[2025-02-22 22:10:34.670]	    | 已经是最新的。
+[2025-02-22 22:10:34.685]	  "tmux-continuum" update success
+[2025-02-22 22:10:34.694]	    | 已经是最新的。
+[2025-02-22 22:10:34.702]	  "tmux-copycat" update success
+[2025-02-22 22:10:34.717]	    | 已经是最新的。
+[2025-02-22 22:10:34.737]	    | 已经是最新的。
+[2025-02-22 22:10:34.756]	  "tmux-resurrect" update success
+[2025-02-22 22:10:34.775]	    | 已经是最新的。
+[2025-02-22 22:10:35.103]	  "tmux-floax" update success
+[2025-02-22 22:10:35.116]	    | 已经是最新的。
+[2025-02-22 22:10:35.153]	  "tmux-sessionx" update success
+[2025-02-22 22:10:35.160]	    | 已经是最新的。
+[2025-02-22 22:10:35.169]	Invoking /home/tdy/.config/tmux/plugins/tpm/bin/clean_plugins all
+[2025-02-22 22:10:35.209]	Done.
+
