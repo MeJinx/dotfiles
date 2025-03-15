@@ -60,7 +60,7 @@ prompt {
     border-radius:               0%;
     background-color:            @selected;
     text-color:                  @background;
-    font:                        "BebasNeue 18";
+    font:                        "BebasNeue 20";
 }
 
 textbox-prompt-colon {
@@ -71,7 +71,7 @@ textbox-prompt-colon {
     str:                         "";
     background-color:            @active;
     text-color:                  @background;
-    font:                        "Noto Sans CJK 18";
+    font:                        "Noto Sans CJK 20";
 }
 
 num-filtered-rows {

@@ -77,4 +77,10 @@ pidof -q polkit-gnome-authentication-agent-1 || { /usr/lib/polkit-gnome/polkit-g
 # fcitx5
 fcitx5 &
 
+# keepass
+keepassxc
+
+picom --experimental-backends --config ~/.config/bspwm/src/picom.conf
+
+# End one time code
 # End one time code

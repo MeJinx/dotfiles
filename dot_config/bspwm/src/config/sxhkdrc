@@ -47,6 +47,8 @@ super + {p,t,w}
 F1
     flameshot gui
 
+super + o
+    env QT_AUTO_SCREEN_SCALE_FACTOR=1 QT_IM_MODULE=fcitx QT_QPA_PLATFORM="xcb" eusoft-eudic %F
 # ----- Rofi Applets ----- #
 
 #Terminal Selector

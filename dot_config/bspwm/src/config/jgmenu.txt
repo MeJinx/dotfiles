@@ -13,13 +13,11 @@ Exit,^checkout(exit),system-shutdown
 
 ^tag(rices)
 Aline,echo aline > ~/.config/bspwm/.rice ; ~/.config/bspwm/src/Theme.sh,colors
-Andrea,echo andrea > ~/.config/bspwm/.rice ; ~/.config/bspwm/src/Theme.sh,colors
 Brenda,echo brenda > ~/.config/bspwm/.rice ; ~/.config/bspwm/src/Theme.sh,colors
 Cristina,echo cristina > ~/.config/bspwm/.rice ; ~/.config/bspwm/src/Theme.sh,colors
 Cynthia,echo cynthia > ~/.config/bspwm/.rice ; ~/.config/bspwm/src/Theme.sh,colors
 Daniela,echo daniela > ~/.config/bspwm/.rice ; ~/.config/bspwm/src/Theme.sh,colors
 Emilia,echo emilia > ~/.config/bspwm/.rice ; ~/.config/bspwm/src/Theme.sh,colors
-h4ck3r,echo h4ck3r > ~/.config/bspwm/.rice ; ~/.config/bspwm/src/Theme.sh,colors
 Isabel,echo isabel > ~/.config/bspwm/.rice ; ~/.config/bspwm/src/Theme.sh,colors
 Jan,echo jan > ~/.config/bspwm/.rice ; ~/.config/bspwm/src/Theme.sh,colors
 Karla,echo karla > ~/.config/bspwm/.rice ; ~/.config/bspwm/src/Theme.sh,colors
@@ -27,14 +25,13 @@ Marisol,echo marisol > ~/.config/bspwm/.rice ; ~/.config/bspwm/src/Theme.sh,colo
 Melissa,echo melissa > ~/.config/bspwm/.rice ; ~/.config/bspwm/src/Theme.sh,colors
 Pamela,echo pamela > ~/.config/bspwm/.rice ; ~/.config/bspwm/src/Theme.sh,colors
 Silvia,echo silvia > ~/.config/bspwm/.rice ; ~/.config/bspwm/src/Theme.sh,colors
-Varinka,echo varinka > ~/.config/bspwm/.rice ; ~/.config/bspwm/src/Theme.sh,colors
 Yael,echo yael > ~/.config/bspwm/.rice ; ~/.config/bspwm/src/Theme.sh,colors
 z0mbi3,echo z0mbi3 > ~/.config/bspwm/.rice ; ~/.config/bspwm/src/Theme.sh,colors
 
 ^tag(favorites)
 Editor,OpenApps --editor,standard-notes
 Neovim,OpenApps --nvim,nvim
-google-chrome,OpenApps --browser,google-chrome
+firefox,OpenApps --browser,firefox
 Retroarch,retroarch,retroarch
 
 ^tag(wg)
