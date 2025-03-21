@@ -102,7 +102,7 @@ geany_theme="z0mbi3-RosePineDawn"
 # - CustomDir	(Set a random wallpaper from the directory you specified)
 # - CustomImage	(Sets a specific image as wallpaper)
 # - CustomAnimated (Set an animated wallpaper. "mp4, mkv, gif")
-ENGINE="CustomAnimated"
+ENGINE="Theme"
 CUSTOM_DIR="/path/to/dir"
 CUSTOM_WALL="/path/to/image"
 CUSTOM_ANIMATED="/home/tdy/视频/🐶.mp4"

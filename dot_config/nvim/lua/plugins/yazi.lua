@@ -10,14 +10,14 @@ return{
             },
             {
                 -- Open in the current working directory
-                "<leader>cw",
+                "<leader>cy",
                 "<cmd>Yazi cwd<cr>",
                 desc = "Open the file manager in nvim's working directory",
             },
             {
                 -- NOTE: this requires a version of yazi that includes
                 -- https://github.com/sxyazi/yazi/pull/1305 from 2024-07-18
-                '<c-k>',
+                '<leader>ly',
                 "<cmd>Yazi toggle<cr>",
                 desc = "Resume the last yazi session",
             },

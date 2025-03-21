@@ -9,7 +9,7 @@
 #   Author: z0mbi3
 #   url: https://github.com/gh0stzk/dotfiles
 
-CFG_TERM="$HOME/.config/bspwm/src/.term"
+CFG_TERM="$HOME/.config/bspwm/src/config/.term"
 ROFI_THEME="$HOME/.config/bspwm/src/rofi-themes/TermSelector.rasi"
 
 # Main var
@@ -70,34 +70,34 @@ case $MY_TERM in
 	"kitty")
 		case $1 in
 			"--terminal")
-				env GLFW_IM_MODULE=ibus kitty
+				kitty
 				;;
 			"--floating")
-				env GLFW_IM_MODULE=ibus kitty --class=FloaTerm
+				kitty --class=FloaTerm
 				;;
 			"--update")
-				env GLFW_IM_MODULE=ibus kitty --hold --class=FloaTerm -e Updates --update-system
+				kitty --hold --class=FloaTerm -e Updates --update-system
 				;;
 			"--checkupdates")
-				env GLFW_IM_MODULE=ibus kitty --hold --class=Updating -e Updates --print-updates
+				kitty --hold --class=Updating -e Updates --print-updates
 				;;
 			"--yazi")
-				env GLFW_IM_MODULE=ibus kitty --hold --name=YaziTerm --class=FloaTerm -e yazi
+				kitty --hold --name=YaziTerm --class=FloaTerm -e yazi
 				;;
 			"--nvim")
-				env GLFW_IM_MODULE=ibus kitty -e nvim
+				kitty -e nvim
 				;;
 			"--music")
-				env GLFW_IM_MODULE=ibus kitty --name=MusicTerm --class=FloaTerm -e ncmpcpp
+				kitty --name=MusicTerm --class=FloaTerm -e ncmpcpp
 				;;
 			"--fetch")
-				env GLFW_IM_MODULE=ibus kitty --name=FetchTerm --class=FloaTerm -e ~/.local/bin/sysfetch
+				kitty --name=FetchTerm --class=FloaTerm -e ~/.local/bin/sysfetch
 				;;
 			"--scratch")
-				tdrop -ma -w 70% -h 35% -y 0 -x 15% -n 0 --class scratch env GLFW_IM_MODULE=ibus kitty --class=Scratch
+				tdrop -ma -w 70% -h 35% -y 0 -x 15% -n 0 --class scratch kitty --class=Scratch
 				;;
 			"--yaziscratch")
-				tdrop -ma -w 80% -h 35% -y 0 -x 10% -n 1 --class scratch env GLFW_IM_MODULE=ibus kitty --class=Scratch -e yazi
+				tdrop -ma -w 80% -h 35% -y 0 -x 10% -n 1 --class scratch kitty --class=Scratch -e yazi
 				;;
 		esac
 		;;

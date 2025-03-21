@@ -1,12 +1,12 @@
 * {
     font: "JetBrainsMono NF Bold 9";
-    background: #faf4ed;
-    bg-alt: #f2e9e1;
-    background-alt: #faf4edE0;
-    foreground: #575279;
-    selected: #d7827e;
-    active: #286983;
-    urgent: #ea9d34;
+    background: #282a36;
+    bg-alt: #2f3240;
+    background-alt: #282a36E0;
+    foreground: #f8f8f2;
+    selected: #bd93f9;
+    active: #50fa7b;
+    urgent: #ff6e6e;
 
-    img-background: url("~/.config/bspwm/rices/aline/rofi.webp", width);
+    img-background: url("~/.config/bspwm/rices/marisol/rofi.webp", width);
 }

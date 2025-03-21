@@ -22,8 +22,8 @@ keymap.set("v", "K", ":m '<-2<CR>gv=gv")
 
 -- ---------- 正常模式 ---------- ---
 -- 窗口
-keymap.set("n", "<leader>sv", "<C-w>v", {desc = '水平新增窗口'}) -- 水平新增窗口 
-keymap.set("n", "<leader>sh", "<C-w>s", {desc = '垂直新增窗口'}) -- 垂直新增窗口
+keymap.set("n", "<leader>-", "<C-w>v", {desc = '水平新增窗口'}) -- 水平新增窗口 
+keymap.set("n", "<leader>_", "<C-w>s", {desc = '垂直新增窗口'}) -- 垂直新增窗口
 
 -- 取消高亮
 keymap.set("n", "<leader>nh", ":nohl<CR>", {desc = '取消搜索高亮'})

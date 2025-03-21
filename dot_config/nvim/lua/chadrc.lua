@@ -6,7 +6,7 @@
 local M = {}
 
 M.base46 = {
-	theme = "material-lighter",
+	theme = "darcula-dark",
   transparency = true,
 
 	-- hl_override = {

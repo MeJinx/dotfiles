@@ -45,6 +45,7 @@ bspc config pointer_action1           move
 bspc config pointer_action2           resize_side
 bspc config pointer_action3           resize_corner
 
+bspc rule -a qqmusic state=floating
 #  ╔═╗╦ ╦╔╦╗╔═╗╔═╗╔╦╗╔═╗╦═╗╔╦╗
 #  ╠═╣║ ║ ║ ║ ║╚═╗ ║ ╠═╣╠╦╝ ║
 #  ╩ ╩╚═╝ ╩ ╚═╝╚═╝ ╩ ╩ ╩╩╚═ ╩
@@ -80,7 +81,6 @@ fcitx5 &
 # keepass
 keepassxc
 
-picom --experimental-backends --config ~/.config/bspwm/src/picom.conf
 
 # End one time code
 # End one time code
