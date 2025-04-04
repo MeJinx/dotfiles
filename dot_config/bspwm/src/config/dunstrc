@@ -9,15 +9,15 @@ follow = mouse
 
 width = (300, 400)
 #height = (0, 200)
-origin = top-right
-offset = (20, 60)
+origin = top-center
+offset = (0, 10)
 scale = 0
 
 notification_limit = 20
 indicate_hidden = yes
 
 transparency = 0
-corner_radius = 0
+corner_radius = 6
 
 gap_size = 4
 separator_height = 1
@@ -28,7 +28,7 @@ horizontal_padding = 15
 text_icon_padding = 0
 
 frame_width = 2
-frame_color = "#bd93f9"
+frame_color = "#c3a5e6"
 
 sort = no
 idle_threshold = 0
@@ -37,7 +37,7 @@ font = JetBrainsMono NF Medium 9
 line_height = 0
 
 markup = full
-format = "<span size='xx-large' font_desc='Cantarell 9' weight='bold' foreground='#bd93f9'>%s</span>\n%b"
+format = "<span size='xx-large' font_desc='Cantarell 9' weight='bold' foreground='#34738e'>%s</span>\n%b"
 alignment = center
 vertical_alignment = center
 
@@ -50,7 +50,7 @@ hide_duplicate_count = true
 show_indicators = yes
 
 enable_recursive_icon_lookup = true
-icon_theme = "Dracula, Adwaita"
+icon_theme = "Catppuccin-Mocha, Adwaita"
 icon_position = left
 min_icon_size = 60
 max_icon_size = 90
@@ -82,15 +82,15 @@ class = Dunst
 
 [urgency_low]
 timeout = 3
-background = "#282a36"
-foreground = "#50fa7b"
+background = "#232136"
+foreground = "#9bced7"
 
 [urgency_normal]
 timeout = 5
-background = "#282a36"
-foreground = "#f8f8f2"
+background = "#232136"
+foreground = "#e0def4"
 
 [urgency_critical]
 timeout = 0
-background = "#282a36"
-foreground = "#ff5555"
+background = "#232136"
+foreground = "#ea6f91"

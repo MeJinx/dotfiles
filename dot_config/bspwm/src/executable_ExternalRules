@@ -27,7 +27,7 @@ result() {
 }
 
 case "$class" in
-    com.example.FloaTerm)
+    FloaTerm)
 		result "state=floating center=on rectangle=696x399+0+0"
         ;;
     Updating)

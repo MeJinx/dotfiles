@@ -33,6 +33,7 @@ Editor,OpenApps --editor,standard-notes
 Neovim,OpenApps --nvim,nvim
 firefox,OpenApps --browser,firefox
 Retroarch,retroarch,retroarch
+google-chrome,google-chrome-stable,google-chrome
 
 ^tag(wg)
 User Card,OpenApps --usercard,system-users

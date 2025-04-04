@@ -1,3 +1,4 @@
+
 #  ╔═╗╔═╗╦ ╦╦═╗╔═╗  ╔═╗╔═╗╔╗╔╔═╗╦╔═╗	- z0mbi3 ╔═╝╚═╗╠═╣╠╦╝║    ║  ║ ║║║║╠╣ ║║ ╦	- https://github.com/gh0stzk/dotfiles
 #  ╚═╝╚═╝╩ ╩╩╚═╚═╝  ╚═╝╚═╝╝╚╝╚  ╩╚═╝	- My zsh conf
 
@@ -13,7 +14,13 @@ export BROWSER='google-chrome-stable'
 export HISTORY_IGNORE="(ls|cd|pwd|exit|sudo reboot|history|cd -|cd ..)"
 export SUDO_PROMPT="Deploying root access for %u. Password pls: "
 export BAT_THEME="base16"
-
+export JAVA_HOME=/usr/lib/jvm/jdk-23.0.2
+export PATH=$JAVA_HOME/bin:$PATH
+export SD_SERVER_PORT=39999
+export WEB_SERVER_PORT=10003
+export CONTROLLER_PORT=40000
+export CONTROLLER_URL=http://0.0.0.0:$CONTROLLER_PORT
+export SD_WORKER_URL=http://0.0.0.0:$SD_SERVER_PORT
 if [ -d "$HOME/.local/bin" ] ;
   then PATH="$HOME/.local/bin:$PATH"
 fi
@@ -245,7 +252,9 @@ alias ld='eza -lhD --icons=always --color=always' # long list dirs
 alias lt='eza --icons=always --color=always --tree' # list folder as tree
 
 alias lg='lazygit'
+alias dc='docker'
 
+alias pow='chmod +x'
 alias off='poweroff'
 alias rb='reboot'
 alias q='exit'
@@ -286,5 +295,22 @@ alias dot='chezmoi'
 #  ├─┤│ │ │ │ │  └─┐ │ ├─┤├┬┘ │
 #  ┴ ┴└─┘ ┴ └─┘  └─┘ ┴ ┴ ┴┴└─ ┴
 $HOME/.local/bin/colorscript -r
+
+
+
+# >>> conda initialize >>>
+# !! Contents within this block are managed by 'conda init' !!
+__conda_setup="$('/home/tdy/miniconda3/bin/conda' 'shell.zsh' 'hook' 2> /dev/null)"
+if [ $? -eq 0 ]; then
+    eval "$__conda_setup"
+else
+    if [ -f "/home/tdy/miniconda3/etc/profile.d/conda.sh" ]; then
+        . "/home/tdy/miniconda3/etc/profile.d/conda.sh"
+    else
+        export PATH="/home/tdy/miniconda3/bin:$PATH"
+    fi
+fi
+unset __conda_setup
+# <<< conda initialize <<<
 
 
