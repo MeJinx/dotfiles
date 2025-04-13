@@ -74,10 +74,10 @@ case "$1" in
 		thunar
 		;;
 	--browser)
-        firefox
+        zen-browser
 		;;
 	--editor)
-	    code	
+	    obsidian	
 		;;
 	--qq)
         linuxqq 

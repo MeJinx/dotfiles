@@ -1,6 +1,6 @@
-Net/ThemeName "RosePineMoon-zk"
-Net/IconThemeName "Catppuccin-Mocha"
-Gtk/CursorThemeName "Qogirr-Dark"
+Net/ThemeName "RosePineDawn-zk"
+Net/IconThemeName "Luv-Folders"
+Gtk/CursorThemeName "Qogirr"
 Gtk/DecorationLayout ":"
 Xft/Hinting 1
 Xft/HintStyle "hintfull"
