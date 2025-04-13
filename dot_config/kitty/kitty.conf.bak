@@ -1,6 +1,6 @@
 font_family JetBrainsMono NF
 font_size 10
-
+cursor_trail 2
 cursor_shape block
 cursor_stop_blinking_after 0
 scrollback_lines 2000
@@ -19,6 +19,6 @@ confirm_os_window_close 0
 tab_bar_style powerline
 
 # BEGIN_KITTY_THEME
-# Daniela
+# Jan
 include current-theme.conf
 # END_KITTY_THEME
