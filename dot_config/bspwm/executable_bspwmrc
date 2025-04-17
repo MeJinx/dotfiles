@@ -45,7 +45,6 @@ bspc config pointer_action1           move
 bspc config pointer_action2           resize_side
 bspc config pointer_action3           resize_corner
 
-bspc rule -a qqmusic state=floating
 #  ╔═╗╦ ╦╔╦╗╔═╗╔═╗╔╦╗╔═╗╦═╗╔╦╗
 #  ╠═╣║ ║ ║ ║ ║╚═╗ ║ ╠═╣╠╦╝ ║
 #  ╩ ╩╚═╝ ╩ ╚═╝╚═╝ ╩ ╩ ╩╩╚═ ╩
@@ -74,13 +73,5 @@ pidof -q clipcatd || { clipcatd & }
 # Launch polkit
 pidof -q polkit-gnome-authentication-agent-1 || { /usr/lib/polkit-gnome/polkit-gnome-authentication-agent-1 & }
 
-
-# fcitx5
+fusuma &
 fcitx5 &
-
-# keepass
-keepassxc
-
-
-# End one time code
-# End one time code

@@ -1,6 +1,7 @@
-## If not running interactively, don't do anything
+
 [[ $- != *i* ]] && return
 
+export PATH="$HOME/.local/share/gem/ruby/3.3.0/bin:$PATH"
 export EDITOR='nvim'
 export BROWSER='google-chrome-stable'
 export HISTORY_IGNORE="(ls|cd|pwd|exit|sudo reboot|history|cd -|cd ..)"
@@ -316,7 +317,11 @@ zinit light-mode for \
 zinit light zsh-users/zsh-autosuggestions
 zinit light zsh-users/zsh-syntax-highlighting
 zinit light zsh-users/zsh-history-substring-search
-zinit light jeffreytse/zsh-vi-mode
+zinit wait lucid for \
+    atload"zle -N fzf-history-widget; bindkey -M viins '^R' fzf-history-widget" \
+    jeffreytse/zsh-vi-mode
 zinit light Aloxaf/fzf-tab
 ### End of Zinit's installer chunk
+[ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+
 

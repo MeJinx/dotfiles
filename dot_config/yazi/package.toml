@@ -34,11 +34,6 @@ rev = "62f0789"
 hash = "9bc26d10d2f6e2aa93b10905b1b76979"
 
 [[plugin.deps]]
-use = "yazi-rs/plugins:full-border"
-rev = "62f0789"
-hash = "3a73613fc702a5f8369791b3401f52f1"
-
-[[plugin.deps]]
 use = "imsi32/yatline"
 rev = "9328205"
 hash = "3e51d1fd8a2e481fcfa8eab1251d1c5f"
@@ -47,6 +42,11 @@ hash = "3e51d1fd8a2e481fcfa8eab1251d1c5f"
 use = "Reledia/miller"
 rev = "40e0265"
 hash = "2d6d77583162aaf0a599e7a3091b5878"
+
+[[plugin.deps]]
+use = "yazi-rs/plugins:full-border"
+rev = "b12a9ab"
+hash = "1f3dad061209081a6b04dd6ff2cb06c7"
 
 [[flavor.deps]]
 use = "yazi-rs/flavors:catppuccin-mocha"
